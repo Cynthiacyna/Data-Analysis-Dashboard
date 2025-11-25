@@ -7,8 +7,8 @@ The dataset captures operational metrics, service utilization, digital resource 
 - <a href="https://github.com/Cynthiacyna/Data-Analysis-Dashboard/blob/main/NIGERIA%20LIBRARY%20USER%20ENGAGEMENT.xlsx">Dataset</a>
 ## Key Performance Indicators (KPIs)
 At the top of the dashboard, I designed five KPI cards to highlight the most important library metrics:
-•	Total Libraries Patrons
-•	Average Borrow Days
+-	Total Libraries Patrons
+-	Average Borrow Days
 •	Average Satisfaction Score
 •	Total Books Borrowed
 •	Total Fines Collected
