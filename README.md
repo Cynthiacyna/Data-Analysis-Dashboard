@@ -5,3 +5,5 @@ The dataset captures operational metrics, service utilization, digital resource 
 
 ## Dataset used
 - <a href="https://github.com/Cynthiacyna/Data-Analysis-Dashboard/blob/main/NIGERIA%20LIBRARY%20USER%20ENGAGEMENT.xlsx">Dataset</a>
+
+- Dashboard Interaction <a href="https://github.com/Cynthiacyna/Data-Analysis-Dashboard/blob/main/NIGERIA%20LIBRARY%20USER%20ENGAGEMENT%20DASHBOARD.xlsx.jpg">View Dashboard</a>
