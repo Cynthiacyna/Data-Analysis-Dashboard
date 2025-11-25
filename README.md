@@ -40,5 +40,7 @@ Every KPI and chart instantly adjusts based on slicer selections—making the da
 
 - Dashboard Interaction <a href="https://github.com/Cynthiacyna/Data-Analysis-Dashboard/blob/main/NIGERIA%20LIBRARY%20USER%20ENGAGEMENT%20DASHBOARD.xlsx.jpg">View Dashboard</a>
 
+## Dashboard
+
 ![NIGERIA LIBRARY USER ENGAGEMENT DASHBOARD xlsx](https://github.com/user-attachments/assets/f8d54316-edd4-4d6a-853d-c57345a592f4)
 
