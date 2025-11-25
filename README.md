@@ -9,26 +9,26 @@ The dataset captures operational metrics, service utilization, digital resource 
 At the top of the dashboard, I designed five KPI cards to highlight the most important library metrics:
 -	Total Libraries Patrons
 -	Average Borrow Days
-•	Average Satisfaction Score
-•	Total Books Borrowed
-•	Total Fines Collected
+-	Average Satisfaction Score
+-	Total Books Borrowed
+-	Total Fines Collected
 These KPI cards automatically update when filtered using slicers, making them dynamic and highly responsive.
 ## Interactive Charts and Visualizations
 To provide clearer insights, I added multiple charts powered by PivotTables:
-a.	Satisfaction Score Distribution (Doughnut Chart)
+-	Satisfaction Score Distribution (Doughnut Chart)
 Shows how library patrons’ satisfaction scores are distributed across different rating levels.
-b. Digital Usage Trend (Bar Chart)
+- Digital Usage Trend (Bar Chart)
 This chart illustrates how patrons engage with the library’s digital services over time.
-c. Event Attendance by City (Line Chart)
+- Event Attendance by City (Line Chart)
 This chart tracks how library event participation varies across different cities.
-d. Books Borrowed by Membership Type (Pie Chart)
+- Books Borrowed by Membership Type (Pie Chart)
 This chart shows the proportion of books borrowed across different membership categories (e.g., Adult, Researcher, Senior, Student). 
 Each chart is clean, color-coded, well-labeled, and scales automatically when filters are applied.
 ## Slicers for Interactive Filtering
 To make the dashboard truly dynamic, I added four slicers:
-•	Gender
-•	Membership Type
-•	City
+-	Gender
+-	Membership Type
+-	City
 With slicers, users can explore the Dashboard:
 Which enable interactive filtering of data, allowing users to quickly drill down into specific segments such as City, Gender, or Membership Type. 
 Every KPI and chart instantly adjusts based on slicer selections—making the dashboard fully interactive and user-friendly.
