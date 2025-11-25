@@ -31,10 +31,14 @@ To make the dashboard truly dynamic, I added four slicers:
 -	Gender
 -	Membership Type
 -	City
-- With slicers, users can explore the Dashboard:
+
+With slicers, users can explore the Dashboard:
 Which enable interactive filtering of data, allowing users to quickly drill down into specific segments such as City, Gender, or Membership Type. 
 Every KPI and chart instantly adjusts based on slicer selections—making the dashboard fully interactive and user-friendly.
 
 
 
 - Dashboard Interaction <a href="https://github.com/Cynthiacyna/Data-Analysis-Dashboard/blob/main/NIGERIA%20LIBRARY%20USER%20ENGAGEMENT%20DASHBOARD.xlsx.jpg">View Dashboard</a>
+
+![NIGERIA LIBRARY USER ENGAGEMENT DASHBOARD xlsx](https://github.com/user-attachments/assets/f8d54316-edd4-4d6a-853d-c57345a592f4)
+
