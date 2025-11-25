@@ -43,4 +43,15 @@ Every KPI and chart instantly adjusts based on slicer selections—making the da
 ## Dashboard
 
 ![NIGERIA LIBRARY USER ENGAGEMENT DASHBOARD xlsx](https://github.com/user-attachments/assets/f8d54316-edd4-4d6a-853d-c57345a592f4)
+## Project Outcome
+This project successfully showcases the ability to:
+-	Build structured datasets from scratch
+-	Create meaningful KPIs
+-	Design interactive dashboards
+-	Communicate insights visually
+-	Use Excel as a complete BI solution
+  
+It also demonstrates real-world analytical thinking applicable to public institutions, digital transformation, and operational monitoring.
+## Conclusion:
+The analysis of the Nigeria Library User Engagement dataset provides clear insight into how patrons interact with library services across age groups, cities, and membership types. The dashboard reveals trends in book borrowing, event participation, digital usage, and satisfaction levels—helping identify what drives engagement and where improvements are needed. Overall, the findings support data-driven decision-making for enhancing library services and improving user experience.
 
